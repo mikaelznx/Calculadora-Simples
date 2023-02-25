@@ -1,6 +1,10 @@
 body {
-    background-color: #060612;
-    }
+    background-image: url("back3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
     
     .calculator {
     display: grid;
